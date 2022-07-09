@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AlgoTheory_LAB6/1.0.0": {
+        "runtime": {
+          "AlgoTheory_LAB6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AlgoTheory_LAB6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
